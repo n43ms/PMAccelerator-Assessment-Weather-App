@@ -1,4 +1,4 @@
-# PMAccelerator-Assessment-Weather-App
+# Weather Application
 
 A comprehensive weather application that provides current weather conditions and forecasts for any location. Built by Aditya for the PM Accelerator assessment.
 
@@ -40,4 +40,4 @@ A comprehensive weather application that provides current weather conditions and
 
 ## About PM Accelerator
 
-(https://www.linkedin.com/company/product-manager-accelerator). 
+PM Accelerator is a program designed to help aspiring product managers develop the skills and knowledge needed to succeed in the field. For more information, visit our [LinkedIn page](https://www.linkedin.com/company/product-manager-accelerator). 
