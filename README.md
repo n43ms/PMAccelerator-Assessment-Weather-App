@@ -1,4 +1,4 @@
-##A comprehensive weather application that provides current weather conditions and forecasts for any location. Built by Aditya for the PM Accelerator assessment.
+## A comprehensive weather application that provides current weather conditions and forecasts for any location. Built by Aditya for the PM Accelerator assessment.
 
 ## Features
 
